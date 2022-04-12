@@ -24,8 +24,8 @@ https://mirrors.bfsu.edu.cn/bjlx
 https://mirrors.bfsu.edu.cn/loongson  
   
 腾讯:  
-https://mirrors.tencent.com/bjlx  
-https://mirrors.tencent.com/loongson  
+https://mirrors.cloud.tencent.com/bjlx  
+https://mirrors.cloud.tencent.com/loongson  
   
 阿里:  
 https://mirrors.aliyun.com/bjlx  
