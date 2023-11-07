@@ -8,12 +8,12 @@ loongson 是收集的一些龙芯的资料。内核，文档，pmon, 软件包�
   
 中科大:  
   
-http://mirrors.ustc.edu.cn/bjlx   
-http://mirrors.ustc.edu.cn/loongson  
+https://mirrors.ustc.edu.cn/bjlx   
+https://mirrors.ustc.edu.cn/loongson  
   
 清华:  
-http://mirrors.tuna.tsinghua.edu.cn/bjlx  
-http://mirrors.tuna.tsinghua.edu.cn/loongson  
+https://mirrors.tuna.tsinghua.edu.cn/bjlx  
+https://mirrors.tuna.tsinghua.edu.cn/loongson  
   
 南京大学:  
 https://mirrors.nju.edu.cn/bjlx  
@@ -29,7 +29,11 @@ https://mirrors.cloud.tencent.com/loongson
   
 阿里:  
 https://mirrors.aliyun.com/bjlx  
-https://mirrors.aliyun.com/loongson  
+https://mirrors.aliyun.com/loongson
+  
+南阳理工学院:  
+https://mirror.nyist.edu.cn/bjlx  
+https://mirror.nyist.edu.cn/loongson  
   
 主站在安恒集团(带宽较小，并限速，不建议直接使用)：  
   
